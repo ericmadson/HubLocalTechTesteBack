@@ -19,7 +19,7 @@ Clone o repositório
 
 Navegue até o repositório
 
-    cd HubLocalTechTestBack
+    cd HubLocalTechTesteBack
 
 Instale as dependências
 
