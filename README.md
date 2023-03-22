@@ -1,4 +1,4 @@
-# HubLocalTechTestFront
+# HubLocalTechTestBack
 
 Back end do teste técnico realizado para a empresa HubLocal. Essa aplicação se trata
 do lado back end da aplicação completa, para visualização completa, acessar em conjunto
