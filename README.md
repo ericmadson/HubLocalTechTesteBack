@@ -7,9 +7,9 @@ com o lado [Front End](https://github.com/ericmadson/HubLocalTechTestFront)
 ### Pré-Requisitos
 
 - [Front End](https://github.com/ericmadson/HubLocalTechTestFront)
-- [NodeJS => v16.13.0]
-- [NPM => v8.1.0]
-- [Yarn => 1.22.11]
+- NodeJS => v16.13.0
+- NPM => v8.1.0
+- Yarn => 1.22.11
 
 ### Instalação
 
