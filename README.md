@@ -15,7 +15,7 @@ com o lado [Front End](https://github.com/ericmadson/HubLocalTechTestFront)
 
 Clone o repositório
 
-    git clone https://github.com/ericmadson/HubLocalTechTestBack.git
+    git clone https://github.com/ericmadson/HubLocalTechTesteBack.git
 
 Navegue até o repositório
 
