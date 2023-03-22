@@ -38,6 +38,11 @@ seguindo a proposta de:
 - Criar/Listar/Deletar/Editar locais pertencentes a uma
 empresa (usuário logado)
 
+## Observações
+
+Ao realizar a deleção, pode acontecer algum erro por causa da entidade possuir outra relacionada.
+Ex: Erro ao excluir uma empresa, pois a mesma possui locais cadastrados a ela.
+
 ## Techs
 
 Tecnologias utilizadas:
